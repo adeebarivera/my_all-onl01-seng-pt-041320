@@ -1,4 +1,3 @@
-binding.pry
 
 def my_all?(collection)
 def my_all?(collection)
